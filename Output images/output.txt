@@ -1,0 +1,23 @@
+Dataset:
+        Name  Age  Grade  Subject  Score
+0     Alice   15      9     Math     85
+1       Bob   14      9  Science     92
+2  Catherine   15     10  English     78
+3     David   15     10     Math     90
+4     Emily   14      9  Science     88
+5     Frank   16     11  English     75
+6     Grace   15     10     Math     92
+7     Henry   14      9  Science     85
+8       Ivy   16     11  English     80
+9      Jack   15     10     Math     88
+
+Average Score: 85.5
+Highest Score: 92
+Lowest Score: 75
+
+Average Scores by Subject:
+Subject
+English    77.666667
+Math       88.750000
+Science    88.333333
+Name: Score, dtype: float64
